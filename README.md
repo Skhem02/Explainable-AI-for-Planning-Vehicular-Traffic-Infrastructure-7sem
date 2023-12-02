@@ -1,6 +1,4 @@
-# Project Title
-
-Explainable AI for Planning Vehicular Traffic Infrastructure
+# Explainable AI for Planning Vehicular Traffic Infrastructure
 
 ## Project Overview
 
